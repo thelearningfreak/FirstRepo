@@ -1,1 +1,2 @@
-This is to test the git pull merge
+This is to test the git pull merge. 
+Update from the Remote branch. 
